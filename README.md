@@ -21,4 +21,4 @@ Lembre-se, hoje sou iniciante!
 
 ## 👨‍💻 Eu:
 
-* **Meu LinkedIn** - [João André](www.linkedin.com/in/joão-andré-de-medeiros-arnaud-b3bb9a349) - Caso queira entrar em contato!
+* **Meu LinkedIn** - [João André](https://www.linkedin.com/in/joão-andré-de-medeiros-arnaud-b3bb9a349) - Caso queira entrar em contato!
